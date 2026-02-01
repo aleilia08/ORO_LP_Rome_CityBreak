@@ -36,4 +36,5 @@ The optimization selects the best combination of options such that:
 pip install pulp
 
 2. Run the optimization model:
+```bash
 python rome_citybreak_lp.py
